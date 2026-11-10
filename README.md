@@ -1,6 +1,3 @@
-@a-w4w
-
-
 # AWS & DevOps Projects
 
 This repository contains my hands-on AWS and DevOps projects, demonstrating practical knowledge of cloud infrastructure, CI/CD automation, containerization and Kubernetes.
