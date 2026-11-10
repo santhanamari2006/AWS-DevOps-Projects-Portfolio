@@ -14,8 +14,6 @@ This repository contains my hands-on AWS and DevOps projects, demonstrating prac
 - GitOps using Argo CD.
 - Monitoring using Prometheus and Grafana.
 
-[View Project 1](Project-1-DevSecOps/README.md)
-
 ### 2. Kubernetes Deployment Using Terraform, EKS and Jenkins
 
 **Tools:** AWS, Terraform, Jenkins, EC2, EKS, Kubernetes, S3.
@@ -26,8 +24,6 @@ This repository contains my hands-on AWS and DevOps projects, demonstrating prac
 - Automated Nginx application deployment.
 - Exposed the application using LoadBalancer.
 
-[View Project 2](Project-2-Terraform-EKS-Jenkins/README.md)
-
 ### 3. GitHub Actions CI/CD Pipeline with Amazon EKS
 
 **Tools:** AWS, GitHub Actions, Terraform, Docker, Kubernetes, SonarQube, Trivy, Docker Hub.
@@ -37,8 +33,6 @@ This repository contains my hands-on AWS and DevOps projects, demonstrating prac
 - Integrated code quality and security scanning.
 - Built and pushed Docker images to Docker Hub.
 - Deployed the application on Amazon EKS.
-
-[View Project 3](Project-3-GitHub-Actions-EKS/README.md)
 
 ## Technologies
 
